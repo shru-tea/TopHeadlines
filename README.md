@@ -1,16 +1,18 @@
-# news_reader
+# TopHeadlines
 
-A new Flutter project.
 
-## Getting Started
+<img src="/TopHeadlines.gif" width="250" height="500"/>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p>Features used: 
+  <ol>
+    <li> Web view in flutter</li>
+    <li>Fetching data from Newsapi.org</li>
+ </ol> </p>
+ 
+ <p>Features to be added: 
+  <ol>
+    <li>floatingActionButton to interact with the webview</li>
+    <li>Adding a dropdown menu button</li>
+    <li>Adding a 'favourites' news article or 'Save and Read later' news article page</li>
+    <li>Improve the color pallete(?)</li>
+  </ol></p>
